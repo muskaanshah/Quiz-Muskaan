@@ -28,7 +28,7 @@ var quest = [
     answer: "Google"
   },
   qSix = {
-    question: "6. When is Muskaan's birthday? (19th November,20th November or 20th October) ",
+    question: "6. When is Muskaan's birthday? (19th November, 20th November or 20th October) ",
     answer: "19th November"
   },
   qSeven = {
@@ -36,7 +36,7 @@ var quest = [
     answer: "Ian Somerhalder"
   },
   qEight = {
-    question: "8. What is Muskaan's favourite colour? (Blue, Balck or White) ",
+    question: "8. What is Muskaan's favourite colour? (Blue, Black or White) ",
     answer: "Black"
   },
   qNine = {
